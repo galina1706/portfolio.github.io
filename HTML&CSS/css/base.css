@@ -1,0 +1,47 @@
+#my_heading {
+	color: black;
+	background-color: silver;
+	text-align: center;
+}
+
+.main_headers {
+	color: black;
+	font-family: Sofia;
+	text-align: center;
+	background-color: silver;
+}
+#my_footer {
+	background-color: tan;
+	text-align: center;
+}
+
+.paragraphs {
+	font-family: Trirong;
+}
+.margin {
+	margin-top: 10px;
+	margin-bottom: 2px;
+}
+ul > li {
+	font-family: Trirong;
+}
+
+h4 {
+	font-family: Trirong;
+}
+ol > li {
+	font-family: Trirong;
+}
+h3 {
+	font-family: Trirong;
+	color: lightcoral;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+body {
+	background: url(../img/background_2.jpg);
+}
+.table_style {
+	font-family: Trirong;
+	margin-bottom: 15px;
+}
